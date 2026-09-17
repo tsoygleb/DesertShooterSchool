@@ -1,1 +1,3 @@
-# DesertShooterSchool
+# Desert Shooter
+
+본 프로젝트는 "클리커 게임"이라는 주제의 발표를 구현하기 위해 제작되었습니다.
